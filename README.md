@@ -3,3 +3,5 @@
   "Drone Detection Using Faster_RCNN" 
   
  "Book-Recommender-System-with-ML"
+ 
+ "Laptop-Price-Prediction-using-Machine-Learning-Algorithms"
